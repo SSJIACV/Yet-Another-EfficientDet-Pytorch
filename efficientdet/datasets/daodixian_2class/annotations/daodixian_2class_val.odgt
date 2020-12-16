@@ -1,0 +1,273 @@
+{"fpath": "101850.jpg", "height": 5792, "width": 8688, "ID": "17005472,269ca2000865d612a", "gtboxes": [{"tag": "yiwu", "box": [4570, 1566, 1115, 1725]}]}
+{"fpath": "101678.jpg", "height": 3024, "width": 4032, "ID": "17005472,23f3de000c8e5349a", "gtboxes": [{"tag": "yiwu", "box": [1166, 1590, 871, 430]}]}
+{"fpath": "101803.jpg", "height": 3024, "width": 4032, "ID": "17005472,2664a50000ab06d9f", "gtboxes": [{"tag": "yiwu", "box": [1905, 1487, 984, 455]}]}
+{"fpath": "101813.jpg", "height": 3024, "width": 4032, "ID": "17005472,2689ea000593a1464", "gtboxes": [{"tag": "yiwu", "box": [2074, 1313, 718, 438]}]}
+{"fpath": "101736.jpg", "height": 3024, "width": 4032, "ID": "17005472,2512a4000233dc322", "gtboxes": [{"tag": "yiwu", "box": [1110, 1544, 824, 490]}]}
+{"fpath": "101725.jpg", "height": 3024, "width": 4032, "ID": "17005472,247797000a2d2c0e9", "gtboxes": [{"tag": "yiwu", "box": [2299, 1387, 692, 623]}, {"tag": "songduangu", "box": [388, 809, 381, 207]}]}
+{"fpath": "300533.jpg", "height": "4144", "width": "7360", "ID": "17005472,4f39a5000721aeeb4", "gtboxes": [{"tag": "songduangu", "box": [3452, 1774, 284, 112]}]}
+{"fpath": "101775.jpg", "height": 3024, "width": 4032, "ID": "17005472,25d78e0004f9dcaf0", "gtboxes": [{"tag": "yiwu", "box": [1013, 1411, 645, 781]}]}
+{"fpath": "101761.jpg", "height": 3024, "width": 4032, "ID": "17005472,257b4700083507ade", "gtboxes": [{"tag": "yiwu", "box": [1076, 1319, 525, 736]}, {"tag": "songduangu", "box": [3156, 567, 739, 314]}, {"tag": "yiwu", "box": [1247, 1616, 74, 93]}]}
+{"fpath": "200215.jpg", "height": 1080, "width": 1442, "ID": "17005472,29f703000ed6eb2cc", "gtboxes": [{"tag": "songduangu", "box": [557, 624, 160, 68]}]}
+{"fpath": "101766.jpg", "height": 3024, "width": 4032, "ID": "17005472,258c810008200ac7c", "gtboxes": [{"tag": "yiwu", "box": [2131, 1058, 795, 446]}, {"tag": "songduangu", "box": [3344, 1436, 205, 74]}]}
+{"fpath": "101790.jpg", "height": 3024, "width": 4032, "ID": "17005472,26212c000d7035e5f", "gtboxes": [{"tag": "yiwu", "box": [119, 1471, 1670, 732]}, {"tag": "yiwu", "box": [96, 605, 133, 61]}]}
+{"fpath": "101796.jpg", "height": 3024, "width": 4032, "ID": "17005472,262d2e0008b18d7fd", "gtboxes": [{"tag": "yiwu", "box": [1190, 1265, 1204, 460]}]}
+{"fpath": "101788.jpg", "height": 3024, "width": 4032, "ID": "17005472,26192f000f9bedb02", "gtboxes": [{"tag": "yiwu", "box": [715, 1997, 1614, 584]}]}
+{"fpath": "101798.jpg", "height": 3024, "width": 4032, "ID": "17005472,26442c00065a674cf", "gtboxes": [{"tag": "yiwu", "box": [2195, 1362, 627, 669]}]}
+{"fpath": "101762.jpg", "height": 3024, "width": 4032, "ID": "17005472,2595670001d47b4b7", "gtboxes": [{"tag": "yiwu", "box": [1923, 1415, 742, 507]}, {"tag": "songduangu", "box": [3115, 1785, 213, 80]}, {"tag": "yiwu", "box": [1979, 1651, 68, 91]}]}
+{"fpath": "101773.jpg", "height": 3024, "width": 4032, "ID": "17005472,25ae4f000f6bd953a", "gtboxes": [{"tag": "yiwu", "box": [1582, 807, 779, 1100]}]}
+{"fpath": "200216.jpg", "height": 476, "width": 607, "ID": "17005472,2a3f0400030f11bac", "gtboxes": [{"tag": "songduangu", "box": [91, 222, 72, 111]}]}
+{"fpath": "200206.jpg", "height": 3456, "width": 4608, "ID": "17005472,29504e000232c6a81", "gtboxes": [{"tag": "songduangu", "box": [2423, 975, 70, 128]}]}
+{"fpath": "200196.jpg", "height": 1280, "width": 950, "ID": "17005472,282a2d00008e143c2", "gtboxes": [{"tag": "songduangu", "box": [78, 280, 598, 631]}]}
+{"fpath": "101821.jpg", "height": 3024, "width": 4032, "ID": "17005472,25247200055cbc301", "gtboxes": [{"tag": "yiwu", "box": [956, 562, 2033, 1222]}]}
+{"fpath": "200201.jpg", "height": 1440, "width": 1080, "ID": "17005472,2896e00009eb8fc97", "gtboxes": [{"tag": "songduangu", "box": [551, 549, 169, 115]}, {"tag": "songduangu", "box": [586, 1119, 59, 174]}]}
+{"fpath": "101675.jpg", "height": 3024, "width": 4032, "ID": "17005472,23e3790004d25989c", "gtboxes": [{"tag": "yiwu", "box": [955, 1816, 844, 651]}, {"tag": "songduangu", "box": [1701, 1910, 423, 101]}, {"tag": "songduangu", "box": [58, 2235, 132, 40]}]}
+{"fpath": "300539.jpg", "height": "4912", "width": "7360", "ID": "17005472,4a5e35000d031e8cb", "gtboxes": [{"tag": "songduangu", "box": [2507, 3136, 119, 122]}]}
+{"fpath": "101685.jpg", "height": 3024, "width": 4032, "ID": "17005472,24b9f60008356423f", "gtboxes": [{"tag": "yiwu", "box": [965, 1323, 917, 785]}]}
+{"fpath": "101717.jpg", "height": 3024, "width": 4032, "ID": "17005472,24fd0b000b398da6c", "gtboxes": [{"tag": "songduangu", "box": [54, 1653, 167, 50]}]}
+{"fpath": "101767.jpg", "height": 3024, "width": 4032, "ID": "17005472,258f84000ee9ddfbc", "gtboxes": [{"tag": "songduangu", "box": [3123, 716, 461, 222]}, {"tag": "yiwu", "box": [744, 1194, 1004, 551]}]}
+{"fpath": "200199.jpg", "height": 3456, "width": 4608, "ID": "17005472,28f5e1000abb943a8", "gtboxes": [{"tag": "songduangu", "box": [1659, 1110, 1742, 662]}]}
+{"fpath": "101742.jpg", "height": 3024, "width": 4032, "ID": "17005472,2530db000a67f510a", "gtboxes": [{"tag": "yiwu", "box": [1196, 1794, 370, 598]}, {"tag": "songduangu", "box": [80, 1857, 115, 52]}, {"tag": "yiwu", "box": [3604, 1741, 63, 62]}]}
+{"fpath": "000095.jpg", "height": "3000", "width": "4000", "ID": "17005472,a509000b5bcab53", "gtboxes": [{"tag": "songduangu", "box": [1968, 1252, 150, 50]}]}
+{"fpath": "101745.jpg", "height": 3024, "width": 4032, "ID": "17005472,252bc3000a77b233c", "gtboxes": [{"tag": "yiwu", "box": [1545, 1672, 450, 436]}, {"tag": "songduangu", "box": [433, 2006, 114, 62]}]}
+{"fpath": "101831.jpg", "height": 3024, "width": 4032, "ID": "17005472,263707000b0e21313", "gtboxes": [{"tag": "yiwu", "box": [1680, 784, 863, 1279]}]}
+{"fpath": "000099.jpg", "height": "1500", "width": "2000", "ID": "17005472,215ab0005efa6690", "gtboxes": [{"tag": "songduangu", "box": [1101, 986, 159, 42]}]}
+{"fpath": "101739.jpg", "height": 3024, "width": 4032, "ID": "17005472,248a50000ea315aa4", "gtboxes": [{"tag": "yiwu", "box": [2106, 955, 783, 769]}]}
+{"fpath": "101841.jpg", "height": 3000, "width": 4000, "ID": "17005472,260e620007833da5f", "gtboxes": [{"tag": "songduangu", "box": [2296, 1864, 863, 185]}, {"tag": "songduangu", "box": [2360, 1934, 432, 95]}]}
+{"fpath": "300574.jpg", "height": "4912", "width": "7360", "ID": "17005472,5012c20001be21c1c", "gtboxes": [{"tag": "songduangu", "box": [3691, 2104, 108, 73]}, {"tag": "songduangu", "box": [3335, 2410, 181, 100]}, {"tag": "songduangu", "box": [3138, 2577, 166, 78]}, {"tag": "songduangu", "box": [3526, 2259, 145, 96]}]}
+{"fpath": "101848.jpg", "height": 2784, "width": 4176, "ID": "17005472,25cd29000f4bca97c", "gtboxes": [{"tag": "yiwu", "box": [2154, 1122, 532, 532]}]}
+{"fpath": "300557.jpg", "height": "4912", "width": "7360", "ID": "17005472,4ad28b00017d6adce", "gtboxes": [{"tag": "songduangu", "box": [3573, 2268, 141, 97]}, {"tag": "songduangu", "box": [3732, 2209, 117, 52]}]}
+{"fpath": "101812.jpg", "height": 3024, "width": 4032, "ID": "17005472,25f930000fe89cbba", "gtboxes": [{"tag": "yiwu", "box": [798, 1331, 753, 337]}]}
+{"fpath": "200211.jpg", "height": 4608, "width": 3456, "ID": "17005472,29daa50006539d32d", "gtboxes": [{"tag": "songduangu", "box": [1359, 313, 504, 268]}]}
+{"fpath": "101706.jpg", "height": 3024, "width": 4032, "ID": "17005472,23f9270009f71873e", "gtboxes": [{"tag": "yiwu", "box": [1249, 1396, 1291, 560]}, {"tag": "songduangu", "box": [2124, 342, 135, 312]}]}
+{"fpath": "000101.jpg", "height": "2832", "width": "4240", "ID": "17005472,1c2f100067b5e26c", "gtboxes": [{"tag": "songduangu", "box": [398, 679, 3246, 1746]}]}
+{"fpath": "101751.jpg", "height": 3024, "width": 4032, "ID": "17005472,25446e000e4b2be9c", "gtboxes": [{"tag": "yiwu", "box": [1240, 1866, 969, 518]}, {"tag": "songduangu", "box": [138, 1944, 140, 63]}]}
+{"fpath": "000097.jpg", "height": "3000", "width": "4000", "ID": "17005472,1b0e70009fb5c3df", "gtboxes": [{"tag": "songduangu", "box": [1254, 2409, 235, 209]}]}
+{"fpath": "000102.jpg", "height": "4000", "width": "6000", "ID": "17005472,7051000ec5704d2", "gtboxes": [{"tag": "songduangu", "box": [1542, 448, 3655, 2953]}]}
+{"fpath": "200212.jpg", "height": 2304, "width": 3072, "ID": "17005472,29e121000a2ba9091", "gtboxes": [{"tag": "songduangu", "box": [1856, 1186, 103, 319]}]}
+{"fpath": "000096.jpg", "height": "3000", "width": "4000", "ID": "17005472,19803000eb051f2e", "gtboxes": [{"tag": "songduangu", "box": [992, 1578, 153, 87]}]}
+{"fpath": "000098.jpg", "height": "1047", "width": "2683", "ID": "17005472,14774000fe4ff900", "gtboxes": [{"tag": "songduangu", "box": [2160, 516, 267, 130]}]}
+{"fpath": "000100.jpg", "height": "1500", "width": "2000", "ID": "17005472,1f73e0008019d39d", "gtboxes": [{"tag": "songduangu", "box": [943, 912, 78, 30]}]}
+{"fpath": "101824.jpg", "height": 3024, "width": 4032, "ID": "17005472,2624020009723d112", "gtboxes": [{"tag": "yiwu", "box": [712, 1722, 1611, 962]}]}
+{"fpath": "101786.jpg", "height": 3024, "width": 4032, "ID": "17005472,261396000afbe37ca", "gtboxes": [{"tag": "yiwu", "box": [1419, 1113, 987, 1456]}, {"tag": "yiwu", "box": [2882, 1330, 52, 91]}]}
+{"fpath": "000104.jpg", "height": "2832", "width": "4240", "ID": "17005472,1f49d0002ae569c8", "gtboxes": [{"tag": "songduangu", "box": [1443, 454, 1168, 2376]}]}
+{"fpath": "101737.jpg", "height": 3024, "width": 4032, "ID": "17005472,244f4f0008a97bacd", "gtboxes": [{"tag": "yiwu", "box": [2157, 1545, 547, 317]}, {"tag": "songduangu", "box": [3727, 1838, 193, 82]}]}
+{"fpath": "300558.jpg", "height": "4912", "width": "7360", "ID": "17005472,49fcd800088a629f4", "gtboxes": [{"tag": "songduangu", "box": [6638, 2856, 299, 122]}, {"tag": "songduangu", "box": [7169, 2918, 189, 88]}]}
+{"fpath": "200209.jpg", "height": 3456, "width": 4608, "ID": "17005472,295563000de3f6533", "gtboxes": [{"tag": "songduangu", "box": [1975, 1139, 618, 1139]}]}
+{"fpath": "101741.jpg", "height": 3024, "width": 4032, "ID": "17005472,23fbeb000bc1f29f1", "gtboxes": [{"tag": "yiwu", "box": [2384, 1398, 571, 876]}]}
+{"fpath": "101707.jpg", "height": 3024, "width": 4032, "ID": "17005472,251e6200041865bb8", "gtboxes": [{"tag": "yiwu", "box": [2430, 1753, 437, 875]}, {"tag": "songduangu", "box": [1792, 1490, 265, 205]}]}
+{"fpath": "200214.jpg", "height": 1440, "width": 1080, "ID": "17005472,2a2712000b6faeb74", "gtboxes": [{"tag": "songduangu", "box": [544, 232, 76, 568]}]}
+{"fpath": "101849.jpg", "height": 3648, "width": 5472, "ID": "17005472,2601d0000846c19f0", "gtboxes": [{"tag": "yiwu", "box": [1918, 1293, 49, 62]}, {"tag": "yiwu", "box": [924, 1543, 57, 46]}]}
+{"fpath": "101752.jpg", "height": 3024, "width": 4032, "ID": "17005472,25500a000b3cc1f22", "gtboxes": [{"tag": "yiwu", "box": [2007, 1592, 957, 345]}, {"tag": "songduangu", "box": [3084, 1918, 185, 74]}]}
+{"fpath": "200203.jpg", "height": 3888, "width": 5184, "ID": "17005472,296b1c0008b702500", "gtboxes": [{"tag": "songduangu", "box": [2437, 2529, 987, 1114]}]}
+{"fpath": "101816.jpg", "height": 3024, "width": 4032, "ID": "17005472,25b68200080ea6060", "gtboxes": [{"tag": "yiwu", "box": [1041, 1449, 1139, 429]}, {"tag": "songduangu", "box": [1679, 442, 150, 412]}]}
+{"fpath": "101778.jpg", "height": 3024, "width": 4032, "ID": "17005472,25d1ef000ed06c306", "gtboxes": [{"tag": "yiwu", "box": [1664, 1243, 653, 1242]}, {"tag": "songduangu", "box": [191, 1421, 466, 91]}]}
+{"fpath": "101808.jpg", "height": 3024, "width": 4032, "ID": "17005472,267452000391f727d", "gtboxes": [{"tag": "yiwu", "box": [1954, 1467, 991, 749]}]}
+{"fpath": "101693.jpg", "height": 3024, "width": 4032, "ID": "17005472,251ad50003dbca87a", "gtboxes": [{"tag": "yiwu", "box": [1204, 1660, 286, 331]}, {"tag": "songduangu", "box": [830, 1763, 233, 42]}]}
+{"fpath": "101826.jpg", "height": 3024, "width": 4032, "ID": "17005472,263428000922f6e2d", "gtboxes": [{"tag": "yiwu", "box": [1563, 586, 936, 1161]}]}
+{"fpath": "101832.jpg", "height": 3024, "width": 4032, "ID": "17005472,2536140007c7310c9", "gtboxes": [{"tag": "yiwu", "box": [173, 1338, 1762, 1683]}]}
+{"fpath": "101728.jpg", "height": 3024, "width": 4032, "ID": "17005472,24b74300045f497d8", "gtboxes": [{"tag": "yiwu", "box": [1604, 1239, 1324, 592]}]}
+{"fpath": "101836.jpg", "height": 3024, "width": 4032, "ID": "17005472,264c2e000d324ebc6", "gtboxes": [{"tag": "yiwu", "box": [1550, 1030, 760, 739]}]}
+{"fpath": "101805.jpg", "height": 3024, "width": 4032, "ID": "17005472,266f0c000141e21f8", "gtboxes": [{"tag": "yiwu", "box": [2455, 1055, 348, 493]}, {"tag": "songduangu", "box": [1814, 1040, 411, 90]}]}
+{"fpath": "300542.jpg", "height": "4912", "width": "7360", "ID": "17005472,52176b000c7788157", "gtboxes": [{"tag": "songduangu", "box": [4974, 2643, 199, 93]}]}
+{"fpath": "200205.jpg", "height": 3456, "width": 4608, "ID": "17005472,29f74b000fdf036a0", "gtboxes": [{"tag": "songduangu", "box": [1915, 892, 1255, 1842]}]}
+{"fpath": "101730.jpg", "height": 3024, "width": 4032, "ID": "17005472,25078e000f5d23423", "gtboxes": [{"tag": "yiwu", "box": [1246, 1383, 667, 609]}]}
+{"fpath": "101695.jpg", "height": 3024, "width": 4032, "ID": "17005472,236570000ee5df339", "gtboxes": [{"tag": "songduangu", "box": [1653, 855, 321, 136]}, {"tag": "yiwu", "box": [954, 1000, 442, 433]}]}
+{"fpath": "101792.jpg", "height": 3024, "width": 4032, "ID": "17005472,262fae000898af539", "gtboxes": [{"tag": "yiwu", "box": [1699, 1245, 864, 942]}]}
+{"fpath": "101700.jpg", "height": 3024, "width": 4032, "ID": "17005472,24874f000cf887101", "gtboxes": [{"tag": "yiwu", "box": [2589, 1734, 578, 613]}, {"tag": "songduangu", "box": [1405, 1418, 439, 217]}]}
+{"fpath": "200208.jpg", "height": 3888, "width": 5184, "ID": "17005472,2a129a00026a52965", "gtboxes": [{"tag": "songduangu", "box": [3321, 1804, 794, 536]}]}
+{"fpath": "101784.jpg", "height": 3024, "width": 4032, "ID": "17005472,25efe80003f7a37dc", "gtboxes": [{"tag": "songduangu", "box": [106, 1438, 291, 135]}]}
+{"fpath": "101732.jpg", "height": 3024, "width": 4032, "ID": "17005472,23693f0001e99cb37", "gtboxes": [{"tag": "yiwu", "box": [1083, 1434, 570, 543]}, {"tag": "songduangu", "box": [99, 1635, 113, 52]}, {"tag": "songduangu", "box": [2282, 1294, 369, 131]}]}
+{"fpath": "101852.jpg", "height": 4000, "width": 6000, "ID": "17005472,25be9c000f623551a", "gtboxes": [{"tag": "yiwu", "box": [7, 1935, 5992, 892]}]}
+{"fpath": "200204.jpg", "height": 3456, "width": 4608, "ID": "17005472,295282000d9759659", "gtboxes": [{"tag": "songduangu", "box": [2334, 1089, 1093, 1256]}]}
+{"fpath": "101702.jpg", "height": 3024, "width": 4032, "ID": "17005472,24f0a9000bc8eafa1", "gtboxes": [{"tag": "songduangu", "box": [1853, 1328, 334, 167]}]}
+{"fpath": "101715.jpg", "height": 3024, "width": 4032, "ID": "17005472,24015a000ae3cc89f", "gtboxes": [{"tag": "yiwu", "box": [2333, 1429, 339, 436]}, {"tag": "yiwu", "box": [3962, 2004, 60, 64]}, {"tag": "songduangu", "box": [199, 417, 500, 286]}]}
+{"fpath": "101817.jpg", "height": 3024, "width": 4032, "ID": "17005472,267f0500041bceae5", "gtboxes": [{"tag": "yiwu", "box": [689, 1433, 706, 607]}, {"tag": "yiwu", "box": [1227, 1747, 109, 91]}]}
+{"fpath": "101703.jpg", "height": 3024, "width": 4032, "ID": "17005472,248465000255d8c37", "gtboxes": [{"tag": "songduangu", "box": [613, 1699, 301, 59]}]}
+{"fpath": "101822.jpg", "height": 3024, "width": 4032, "ID": "17005472,25a4a1000fdf8c588", "gtboxes": [{"tag": "yiwu", "box": [409, 1413, 1689, 654]}]}
+{"fpath": "200202.jpg", "height": 2304, "width": 3072, "ID": "17005472,28f4ba00026dab326", "gtboxes": [{"tag": "songduangu", "box": [1566, 721, 560, 1167]}]}
+{"fpath": "101815.jpg", "height": 3024, "width": 4032, "ID": "17005472,267cac0008577cb45", "gtboxes": [{"tag": "yiwu", "box": [2555, 1085, 547, 394]}, {"tag": "songduangu", "box": [1748, 1070, 369, 86]}]}
+{"fpath": "101708.jpg", "height": 3024, "width": 4032, "ID": "17005472,243f34000e03c6dd7", "gtboxes": [{"tag": "yiwu", "box": [1077, 1225, 508, 845]}, {"tag": "songduangu", "box": [391, 1584, 320, 68]}, {"tag": "yiwu", "box": [1272, 1455, 126, 116]}]}
+{"fpath": "101823.jpg", "height": 3024, "width": 4032, "ID": "17005472,25fc32000380e5419", "gtboxes": [{"tag": "yiwu", "box": [2054, 683, 777, 937]}]}
+{"fpath": "101856.jpg", "height": 2616, "width": 3488, "ID": "17005472,25aa030005c917fa0", "gtboxes": [{"tag": "yiwu", "box": [1612, 1563, 104, 523]}, {"tag": "yiwu", "box": [816, 122, 66, 154]}]}
+{"fpath": "101726.jpg", "height": 3024, "width": 4032, "ID": "17005472,242b510007ecc182e", "gtboxes": [{"tag": "yiwu", "box": [1006, 1466, 832, 776]}, {"tag": "songduangu", "box": [84, 1577, 114, 64]}]}
+{"fpath": "101833.jpg", "height": 3024, "width": 4032, "ID": "17005472,2567110006e3d1599", "gtboxes": [{"tag": "yiwu", "box": [2353, 915, 457, 1342]}]}
+{"fpath": "101842.jpg", "height": 3000, "width": 4000, "ID": "17005472,257441000173e6fbe", "gtboxes": [{"tag": "songduangu", "box": [2223, 2319, 1017, 184]}]}
+{"fpath": "101686.jpg", "height": 3024, "width": 4032, "ID": "17005472,2360660006d10ff75", "gtboxes": [{"tag": "yiwu", "box": [1589, 1104, 710, 573]}, {"tag": "songduangu", "box": [0, 1278, 497, 138]}]}
+{"fpath": "101710.jpg", "height": 3024, "width": 4032, "ID": "17005472,24cd5e0007e7a955d", "gtboxes": [{"tag": "yiwu", "box": [1100, 1379, 593, 741]}, {"tag": "songduangu", "box": [99, 1798, 230, 63]}, {"tag": "songduangu", "box": [2191, 1385, 286, 104]}]}
+{"fpath": "101770.jpg", "height": 3024, "width": 4032, "ID": "17005472,25b352000aeb04bf5", "gtboxes": [{"tag": "yiwu", "box": [2518, 888, 350, 1771]}, {"tag": "songduangu", "box": [1071, 308, 339, 198]}]}
+{"fpath": "300524.jpg", "height": "4912", "width": "7360", "ID": "17005472,51e7a1000f89f714b", "gtboxes": [{"tag": "songduangu", "box": [2526, 2683, 187, 82]}]}
+{"fpath": "101756.jpg", "height": 3024, "width": 4032, "ID": "17005472,255b7b000f3d7bff5", "gtboxes": [{"tag": "yiwu", "box": [859, 1785, 708, 820]}, {"tag": "songduangu", "box": [168, 1942, 132, 63]}]}
+{"fpath": "200207.jpg", "height": 5568, "width": 3712, "ID": "17005472,29ddbd0001b01bccd", "gtboxes": [{"tag": "songduangu", "box": [1634, 2842, 211, 204]}, {"tag": "songduangu", "box": [1298, 2460, 368, 275]}]}
+{"fpath": "101839.jpg", "height": 3024, "width": 4032, "ID": "17005472,25a759000c03afe02", "gtboxes": [{"tag": "yiwu", "box": [843, 1459, 694, 640]}]}
+{"fpath": "101701.jpg", "height": 3024, "width": 4032, "ID": "17005472,23eb0d000de43c89f", "gtboxes": [{"tag": "songduangu", "box": [0, 1131, 532, 105]}]}
+{"fpath": "300526.jpg", "height": "2970", "width": "5280", "ID": "17005472,4e48e3000eb7cc6b1", "gtboxes": [{"tag": "songduangu", "box": [2672, 1091, 112, 158]}]}
+{"fpath": "101733.jpg", "height": 3024, "width": 4032, "ID": "17005472,24c52b000aa7d0963", "gtboxes": [{"tag": "yiwu", "box": [1655, 1332, 658, 591]}]}
+{"fpath": "101679.jpg", "height": 3024, "width": 4032, "ID": "17005472,2471a80009f02532d", "gtboxes": [{"tag": "yiwu", "box": [1932, 785, 1242, 727]}]}
+{"fpath": "101810.jpg", "height": 3024, "width": 4032, "ID": "17005472,268efe00095ede3e0", "gtboxes": [{"tag": "yiwu", "box": [2082, 1554, 991, 1146]}, {"tag": "songduangu", "box": [1681, 1569, 527, 110]}, {"tag": "yiwu", "box": [3886, 174, 72, 115]}]}
+{"fpath": "101768.jpg", "height": 3024, "width": 4032, "ID": "17005472,25a1ba000dcb2f9d3", "gtboxes": [{"tag": "yiwu", "box": [1704, 808, 1280, 1556]}]}
+{"fpath": "101837.jpg", "height": 3024, "width": 4032, "ID": "17005472,2699c5000380f2617", "gtboxes": [{"tag": "yiwu", "box": [788, 1763, 642, 661]}]}
+{"fpath": "300528.jpg", "height": "4144", "width": "7360", "ID": "17005472,4a4a4400083a67862", "gtboxes": [{"tag": "songduangu", "box": [4678, 2532, 279, 206]}, {"tag": "songduangu", "box": [2339, 1510, 133, 79]}]}
+{"fpath": "101765.jpg", "height": 3024, "width": 4032, "ID": "17005472,2598410005084fb27", "gtboxes": [{"tag": "yiwu", "box": [954, 1457, 804, 477]}, {"tag": "songduangu", "box": [348, 1619, 122, 61]}, {"tag": "songduangu", "box": [2654, 1231, 560, 175]}]}
+{"fpath": "101699.jpg", "height": 3024, "width": 4032, "ID": "17005472,237c33000ca4476c2", "gtboxes": [{"tag": "yiwu", "box": [928, 1466, 545, 401]}, {"tag": "songduangu", "box": [1783, 1320, 308, 122]}]}
+{"fpath": "101709.jpg", "height": 3024, "width": 4032, "ID": "17005472,236e8100066cbebfa", "gtboxes": [{"tag": "yiwu", "box": [2250, 1261, 406, 806]}, {"tag": "songduangu", "box": [2993, 1662, 202, 87]}, {"tag": "songduangu", "box": [362, 878, 213, 153]}]}
+{"fpath": "101682.jpg", "height": 3024, "width": 4032, "ID": "17005472,23e5f1000cd813844", "gtboxes": [{"tag": "yiwu", "box": [2057, 1084, 860, 922]}]}
+{"fpath": "101830.jpg", "height": 3024, "width": 4032, "ID": "17005472,264940000c4d21600", "gtboxes": [{"tag": "yiwu", "box": [2240, 1330, 981, 565]}]}
+{"fpath": "101750.jpg", "height": 3024, "width": 4032, "ID": "17005472,253c89000b58c455f", "gtboxes": [{"tag": "yiwu", "box": [2004, 1355, 1001, 977]}]}
+{"fpath": "300531.jpg", "height": "4144", "width": "7360", "ID": "17005472,50505e0007f5029b6", "gtboxes": [{"tag": "songduangu", "box": [3606, 2015, 225, 201]}]}
+{"fpath": "101789.jpg", "height": 3024, "width": 4032, "ID": "17005472,260bbc0000096b009", "gtboxes": [{"tag": "yiwu", "box": [1760, 804, 967, 1342]}]}
+{"fpath": "101851.jpg", "height": 481, "width": 600, "ID": "17005472,2529b00000babef7c", "gtboxes": [{"tag": "yiwu", "box": [166, 217, 217, 94]}]}
+{"fpath": "101825.jpg", "height": 3024, "width": 4032, "ID": "17005472,25bb9d000b2bec9f6", "gtboxes": [{"tag": "yiwu", "box": [2726, 1406, 412, 618]}, {"tag": "songduangu", "box": [1663, 1308, 558, 169]}]}
+{"fpath": "101731.jpg", "height": 3024, "width": 4032, "ID": "17005472,2430da00075f59e89", "gtboxes": [{"tag": "yiwu", "box": [1989, 1205, 663, 605]}, {"tag": "songduangu", "box": [3281, 1589, 183, 104]}]}
+{"fpath": "101748.jpg", "height": 3024, "width": 4032, "ID": "17005472,25392400094505015", "gtboxes": [{"tag": "yiwu", "box": [1121, 1093, 1445, 1418]}]}
+{"fpath": "101795.jpg", "height": 3024, "width": 4032, "ID": "17005472,262a4e0000d6ae4b3", "gtboxes": [{"tag": "yiwu", "box": [728, 1304, 889, 650]}, {"tag": "yiwu", "box": [42, 156, 133, 62]}]}
+{"fpath": "200198.jpg", "height": 3000, "width": 4000, "ID": "17005472,2897240004b1fc7b9", "gtboxes": [{"tag": "songduangu", "box": [3484, 1753, 266, 298]}]}
+{"fpath": "101753.jpg", "height": 3024, "width": 4032, "ID": "17005472,249a05000c99c69c7", "gtboxes": [{"tag": "yiwu", "box": [1356, 919, 1027, 994]}, {"tag": "yiwu", "box": [2138, 1299, 120, 148]}]}
+{"fpath": "101757.jpg", "height": 3024, "width": 4032, "ID": "17005472,25613b000dac4cd70", "gtboxes": [{"tag": "yiwu", "box": [2442, 1795, 583, 793]}, {"tag": "songduangu", "box": [3605, 1995, 206, 54]}]}
+{"fpath": "101797.jpg", "height": 3024, "width": 4032, "ID": "17005472,2659a10005dad2492", "gtboxes": [{"tag": "yiwu", "box": [906, 1383, 589, 621]}]}
+{"fpath": "101791.jpg", "height": 3024, "width": 4032, "ID": "17005472,2616430006a653602", "gtboxes": [{"tag": "yiwu", "box": [1491, 946, 869, 1119]}]}
+{"fpath": "101723.jpg", "height": 3024, "width": 4032, "ID": "17005472,2457aa000dce7d554", "gtboxes": [{"tag": "yiwu", "box": [1130, 674, 1582, 819]}]}
+{"fpath": "101740.jpg", "height": 3024, "width": 4032, "ID": "17005472,24ad4000072b4af9c", "gtboxes": [{"tag": "yiwu", "box": [1022, 998, 776, 1016]}]}
+{"fpath": "101738.jpg", "height": 3024, "width": 4032, "ID": "17005472,23be59000aeefe69d", "gtboxes": [{"tag": "yiwu", "box": [1542, 763, 1018, 1054]}]}
+{"fpath": "101809.jpg", "height": 3024, "width": 4032, "ID": "17005472,26915e0007f1320fb", "gtboxes": [{"tag": "yiwu", "box": [942, 1483, 856, 1304]}, {"tag": "songduangu", "box": [155, 1905, 276, 141]}]}
+{"fpath": "101801.jpg", "height": 3024, "width": 4032, "ID": "17005472,2646ae000230ee026", "gtboxes": [{"tag": "yiwu", "box": [656, 1188, 502, 564]}, {"tag": "songduangu", "box": [1617, 1293, 462, 168]}]}
+{"fpath": "101721.jpg", "height": 3024, "width": 4032, "ID": "17005472,244a210008caff999", "gtboxes": [{"tag": "yiwu", "box": [1107, 1339, 532, 1333]}, {"tag": "songduangu", "box": [0, 1500, 218, 56]}]}
+{"fpath": "101722.jpg", "height": 3024, "width": 4032, "ID": "17005472,23ee1a00023dc8ecf", "gtboxes": [{"tag": "yiwu", "box": [2133, 1427, 731, 1333]}, {"tag": "songduangu", "box": [3508, 1704, 326, 102]}]}
+{"fpath": "101676.jpg", "height": 3024, "width": 4032, "ID": "17005472,25180a00036a41d92", "gtboxes": [{"tag": "yiwu", "box": [1563, 618, 978, 1136]}]}
+{"fpath": "101811.jpg", "height": 3024, "width": 4032, "ID": "17005472,2521990006bd5f29f", "gtboxes": [{"tag": "yiwu", "box": [992, 1157, 1275, 793]}, {"tag": "songduangu", "box": [2121, 4, 153, 306]}]}
+{"fpath": "200197.jpg", "height": 4896, "width": 3672, "ID": "17005472,28fb7b000c303eb3b", "gtboxes": [{"tag": "songduangu", "box": [1028, 747, 514, 1005]}]}
+{"fpath": "101814.jpg", "height": 3024, "width": 4032, "ID": "17005472,268c5c000be9ff421", "gtboxes": [{"tag": "yiwu", "box": [865, 1720, 895, 590]}, {"tag": "songduangu", "box": [1, 2310, 185, 146]}]}
+{"fpath": "101772.jpg", "height": 3024, "width": 4032, "ID": "17005472,25b0af0004441a148", "gtboxes": [{"tag": "yiwu", "box": [2323, 1362, 265, 1414]}]}
+{"fpath": "300518.jpg", "height": "4912", "width": "7360", "ID": "17005472,5041e500084c245cf", "gtboxes": [{"tag": "songduangu", "box": [3133, 2107, 233, 448]}, {"tag": "songduangu", "box": [3269, 2587, 79, 102]}, {"tag": "songduangu", "box": [3311, 3181, 193, 82]}]}
+{"fpath": "101763.jpg", "height": 3024, "width": 4032, "ID": "17005472,259c52000af9a453b", "gtboxes": [{"tag": "yiwu", "box": [1563, 937, 1181, 939]}]}
+{"fpath": "300520.jpg", "height": "4912", "width": "7360", "ID": "17005472,4d9591000e6542d53", "gtboxes": [{"tag": "songduangu", "box": [3909, 2255, 99, 134]}, {"tag": "songduangu", "box": [3033, 2174, 76, 183]}]}
+{"fpath": "300521.jpg", "height": "4912", "width": "7360", "ID": "17005472,4b0dde000ba877004", "gtboxes": [{"tag": "songduangu", "box": [3339, 2207, 90, 178]}, {"tag": "songduangu", "box": [2658, 2474, 63, 112]}, {"tag": "songduangu", "box": [2573, 1901, 75, 159]}, {"tag": "songduangu", "box": [2607, 2267, 84, 180]}]}
+{"fpath": "300522.jpg", "height": "4912", "width": "7360", "ID": "17005472,4ba87f000a0c6c15b", "gtboxes": [{"tag": "songduangu", "box": [3575, 2240, 210, 116]}, {"tag": "songduangu", "box": [3367, 2128, 64, 109]}, {"tag": "songduangu", "box": [3351, 2265, 69, 78]}, {"tag": "songduangu", "box": [3434, 1938, 88, 104]}, {"tag": "songduangu", "box": [3518, 1830, 140, 49]}, {"tag": "songduangu", "box": [3842, 1980, 89, 168]}]}
+{"fpath": "300523.jpg", "height": "4912", "width": "7360", "ID": "17005472,4c6c720001325bec7", "gtboxes": [{"tag": "songduangu", "box": [2049, 2037, 107, 210]}]}
+{"fpath": "101696.jpg", "height": 3024, "width": 4032, "ID": "17005472,23f64e00092158c9c", "gtboxes": [{"tag": "yiwu", "box": [1542, 1322, 903, 558]}, {"tag": "songduangu", "box": [1761, 544, 116, 360]}]}
+{"fpath": "300525.jpg", "height": "4912", "width": "7360", "ID": "17005472,4c5cb100057cf5fb2", "gtboxes": [{"tag": "songduangu", "box": [2439, 2839, 212, 100]}, {"tag": "songduangu", "box": [3748, 2666, 129, 65]}]}
+{"fpath": "200213.jpg", "height": 2304, "width": 3072, "ID": "17005472,2a272200067c8f5fe", "gtboxes": [{"tag": "songduangu", "box": [2220, 1191, 393, 732]}]}
+{"fpath": "300527.jpg", "height": "2970", "width": "5280", "ID": "17005472,4ed3b6000a15f6aea", "gtboxes": [{"tag": "songduangu", "box": [3378, 1262, 123, 50]}, {"tag": "songduangu", "box": [3490, 1319, 64, 108]}, {"tag": "songduangu", "box": [3519, 1469, 38, 94]}, {"tag": "songduangu", "box": [3101, 2056, 96, 93]}]}
+{"fpath": "101854.jpg", "height": 3078, "width": 5472, "ID": "17005472,264f09000fd5e2aa6", "gtboxes": [{"tag": "songduangu", "box": [15, 1818, 1546, 258]}, {"tag": "songduangu", "box": [3955, 1795, 1515, 128]}, {"tag": "songduangu", "box": [2740, 1733, 851, 133]}, {"tag": "songduangu", "box": [2151, 1733, 556, 155]}]}
+{"fpath": "300529.jpg", "height": "4144", "width": "7360", "ID": "17005472,52bca30002b3b43eb", "gtboxes": [{"tag": "songduangu", "box": [2808, 2238, 163, 167]}]}
+{"fpath": "300530.jpg", "height": "4144", "width": "7360", "ID": "17005472,491b2c0002be92e59", "gtboxes": [{"tag": "songduangu", "box": [4036, 2047, 210, 189]}]}
+{"fpath": "101705.jpg", "height": 3024, "width": 4032, "ID": "17005472,24bc90000ea527c89", "gtboxes": [{"tag": "songduangu", "box": [2160, 1010, 322, 133]}, {"tag": "songduangu", "box": [36, 1441, 232, 74]}]}
+{"fpath": "101847.jpg", "height": 4160, "width": 3120, "ID": "17005472,25ea87000da760023", "gtboxes": [{"tag": "yiwu", "box": [1855, 2355, 104, 103]}, {"tag": "yiwu", "box": [1324, 1550, 84, 214]}]}
+{"fpath": "101845.jpg", "height": 3000, "width": 4000, "ID": "17005472,25533b000fa261d31", "gtboxes": [{"tag": "songduangu", "box": [2254, 2186, 988, 160]}, {"tag": "songduangu", "box": [2333, 2215, 277, 113]}]}
+{"fpath": "300534.jpg", "height": "4144", "width": "7360", "ID": "17005472,5144d800011a72302", "gtboxes": [{"tag": "songduangu", "box": [4230, 1262, 123, 226]}]}
+{"fpath": "300535.jpg", "height": "4144", "width": "7360", "ID": "17005472,49efe7000b4e49b55", "gtboxes": [{"tag": "songduangu", "box": [3427, 1627, 170, 155]}]}
+{"fpath": "300536.jpg", "height": "4144", "width": "7360", "ID": "17005472,4bdb62000b421829a", "gtboxes": [{"tag": "songduangu", "box": [3262, 2552, 466, 604]}]}
+{"fpath": "300537.jpg", "height": "4144", "width": "7360", "ID": "17005472,49a2c3000cc79c956", "gtboxes": [{"tag": "songduangu", "box": [3947, 1603, 147, 104]}]}
+{"fpath": "101697.jpg", "height": 3024, "width": 4032, "ID": "17005472,24fa420001cc9ba5f", "gtboxes": [{"tag": "yiwu", "box": [1300, 1600, 488, 418]}, {"tag": "songduangu", "box": [900, 1813, 219, 57]}]}
+{"fpath": "101774.jpg", "height": 3024, "width": 4032, "ID": "17005472,25e48d000bb205132", "gtboxes": [{"tag": "yiwu", "box": [2462, 1131, 493, 852]}]}
+{"fpath": "300541.jpg", "height": "4912", "width": "7360", "ID": "17005472,51f8da000f5966ec6", "gtboxes": [{"tag": "songduangu", "box": [4410, 2696, 339, 87]}, {"tag": "songduangu", "box": [5128, 2692, 273, 96]}]}
+{"fpath": "101782.jpg", "height": 3024, "width": 4032, "ID": "17005472,25ed10000caa150f8", "gtboxes": [{"tag": "yiwu", "box": [327, 1107, 825, 700]}, {"tag": "songduangu", "box": [1849, 1426, 264, 82]}]}
+{"fpath": "300543.jpg", "height": "4912", "width": "7360", "ID": "17005472,50f6a4000a9a410db", "gtboxes": [{"tag": "songduangu", "box": [5018, 2678, 177, 97]}]}
+{"fpath": "300544.jpg", "height": "2970", "width": "5280", "ID": "17005472,50cfbe000681613bf", "gtboxes": [{"tag": "songduangu", "box": [2534, 1034, 209, 309]}]}
+{"fpath": "300545.jpg", "height": "4912", "width": "7360", "ID": "17005472,5065370006d369fb3", "gtboxes": [{"tag": "songduangu", "box": [3034, 2356, 55, 108]}]}
+{"fpath": "300546.jpg", "height": "4912", "width": "7360", "ID": "17005472,4c7eab000c5d2d25e", "gtboxes": [{"tag": "songduangu", "box": [4288, 2316, 253, 197]}, {"tag": "songduangu", "box": [4109, 2586, 155, 78]}, {"tag": "songduangu", "box": [3988, 2657, 105, 90]}]}
+{"fpath": "300547.jpg", "height": "4912", "width": "7360", "ID": "17005472,4be943000a82fa920", "gtboxes": [{"tag": "songduangu", "box": [2520, 2839, 268, 80]}, {"tag": "songduangu", "box": [1898, 2900, 402, 105]}, {"tag": "songduangu", "box": [1417, 2950, 397, 124]}]}
+{"fpath": "300548.jpg", "height": "4912", "width": "7360", "ID": "17005472,4b21b70008fda7e1e", "gtboxes": [{"tag": "songduangu", "box": [3264, 2847, 178, 125]}]}
+{"fpath": "101802.jpg", "height": 3024, "width": 4032, "ID": "17005472,265c5d000785c2714", "gtboxes": [{"tag": "yiwu", "box": [1653, 586, 603, 910]}, {"tag": "songduangu", "box": [2918, 1292, 442, 113]}]}
+{"fpath": "300550.jpg", "height": "4912", "width": "7360", "ID": "17005472,4f8de20005130a6fa", "gtboxes": [{"tag": "songduangu", "box": [3121, 2695, 122, 125]}]}
+{"fpath": "300551.jpg", "height": "4912", "width": "7360", "ID": "17005472,4f457e0008c1796e0", "gtboxes": [{"tag": "songduangu", "box": [4112, 2330, 172, 136]}]}
+{"fpath": "101718.jpg", "height": 3024, "width": 4032, "ID": "17005472,241ad10000501ae0b", "gtboxes": [{"tag": "yiwu", "box": [1839, 805, 718, 798]}]}
+{"fpath": "101720.jpg", "height": 3024, "width": 4032, "ID": "17005472,23a2d400044790fdd", "gtboxes": [{"tag": "songduangu", "box": [534, 1243, 576, 214]}, {"tag": "yiwu", "box": [2303, 1810, 455, 1036]}]}
+{"fpath": "300554.jpg", "height": "4912", "width": "7360", "ID": "17005472,51528900087979443", "gtboxes": [{"tag": "songduangu", "box": [3636, 2327, 210, 85]}, {"tag": "songduangu", "box": [2639, 2345, 185, 94]}, {"tag": "songduangu", "box": [2208, 2788, 99, 71]}, {"tag": "songduangu", "box": [2524, 2390, 108, 35]}]}
+{"fpath": "300555.jpg", "height": "4912", "width": "7360", "ID": "17005472,49b3ac000813d2a8a", "gtboxes": [{"tag": "songduangu", "box": [4248, 1975, 253, 184]}]}
+{"fpath": "300556.jpg", "height": "4912", "width": "7360", "ID": "17005472,492b55000c5735013", "gtboxes": [{"tag": "songduangu", "box": [3934, 2630, 413, 551]}]}
+{"fpath": "101692.jpg", "height": 3024, "width": 4032, "ID": "17005472,2420b6000b9001d35", "gtboxes": [{"tag": "yiwu", "box": [1616, 1471, 1181, 790]}, {"tag": "songduangu", "box": [731, 970, 595, 321]}, {"tag": "songduangu", "box": [3819, 2111, 105, 62]}]}
+{"fpath": "101674.jpg", "height": 3024, "width": 4032, "ID": "17005472,23b65c000f8ef5d33", "gtboxes": [{"tag": "yiwu", "box": [1985, 1537, 1184, 972]}]}
+{"fpath": "101855.jpg", "height": 3000, "width": 4000, "ID": "17005472,26850f000642bb761", "gtboxes": [{"tag": "songduangu", "box": [1600, 933, 510, 620]}]}
+{"fpath": "300560.jpg", "height": "4912", "width": "7360", "ID": "17005472,4c94ac000bb05e882", "gtboxes": [{"tag": "songduangu", "box": [2457, 2193, 54, 98]}]}
+{"fpath": "101734.jpg", "height": 3024, "width": 4032, "ID": "17005472,24e8dd000ff7cb9f5", "gtboxes": [{"tag": "yiwu", "box": [1004, 1692, 500, 343]}, {"tag": "songduangu", "box": [2266, 1642, 305, 101]}]}
+{"fpath": "300562.jpg", "height": "4912", "width": "7360", "ID": "17005472,4d33840004f1ebca9", "gtboxes": [{"tag": "songduangu", "box": [2603, 2147, 93, 118]}]}
+{"fpath": "300563.jpg", "height": "4912", "width": "7360", "ID": "17005472,4cf3390002ae3b8fc", "gtboxes": [{"tag": "songduangu", "box": [5230, 2159, 197, 94]}, {"tag": "songduangu", "box": [5415, 2520, 176, 80]}]}
+{"fpath": "300564.jpg", "height": "4912", "width": "7360", "ID": "17005472,4e690f00067d280c3", "gtboxes": [{"tag": "songduangu", "box": [1952, 2847, 251, 112]}]}
+{"fpath": "300565.jpg", "height": "4912", "width": "7360", "ID": "17005472,50d6ba00029b3eedd", "gtboxes": [{"tag": "songduangu", "box": [3595, 2577, 86, 184]}]}
+{"fpath": "300566.jpg", "height": "4912", "width": "7360", "ID": "17005472,4ab351000f3703703", "gtboxes": [{"tag": "songduangu", "box": [3617, 1918, 122, 262]}]}
+{"fpath": "101743.jpg", "height": 3024, "width": 4032, "ID": "17005472,24bfde00063001cb6", "gtboxes": [{"tag": "yiwu", "box": [1711, 1228, 1059, 687]}]}
+{"fpath": "300568.jpg", "height": "4912", "width": "7360", "ID": "17005472,4bbb60000bda5f306", "gtboxes": [{"tag": "songduangu", "box": [3276, 2041, 110, 143]}, {"tag": "songduangu", "box": [3093, 2404, 202, 58]}]}
+{"fpath": "101713.jpg", "height": 3024, "width": 4032, "ID": "17005472,242387000a69e9aff", "gtboxes": [{"tag": "yiwu", "box": [2611, 1572, 393, 717]}, {"tag": "songduangu", "box": [3731, 1924, 149, 65]}]}
+{"fpath": "300570.jpg", "height": "4912", "width": "7360", "ID": "17005472,50a4ab000c3fcf027", "gtboxes": [{"tag": "songduangu", "box": [3381, 2394, 88, 140]}, {"tag": "songduangu", "box": [3416, 2573, 55, 97]}]}
+{"fpath": "101783.jpg", "height": 3024, "width": 4032, "ID": "17005472,25f2d8000641b8295", "gtboxes": [{"tag": "songduangu", "box": [1783, 38, 120, 234]}]}
+{"fpath": "300572.jpg", "height": "4912", "width": "7360", "ID": "17005472,4b534200080b94ecd", "gtboxes": [{"tag": "songduangu", "box": [3485, 2201, 76, 194]}, {"tag": "songduangu", "box": [3489, 2403, 63, 139]}, {"tag": "songduangu", "box": [3338, 2574, 121, 56]}]}
+{"fpath": "300573.jpg", "height": "4912", "width": "7360", "ID": "17005472,4ff2e00008225aa91", "gtboxes": [{"tag": "songduangu", "box": [3099, 2389, 252, 153]}]}
+{"fpath": "101714.jpg", "height": 3024, "width": 4032, "ID": "17005472,2417d5000a6284e8e", "gtboxes": [{"tag": "songduangu", "box": [3066, 1358, 359, 100]}, {"tag": "yiwu", "box": [1050, 1618, 387, 454]}]}
+{"fpath": "300549.jpg", "height": "4912", "width": "7360", "ID": "17005472,52c9c40003e859e12", "gtboxes": [{"tag": "songduangu", "box": [3158, 1911, 77, 313]}]}
+{"fpath": "200210.jpg", "height": 5184, "width": 3888, "ID": "17005472,29f9c00004c2d7755", "gtboxes": [{"tag": "songduangu", "box": [1815, 126, 472, 507]}]}
+{"fpath": "101677.jpg", "height": 3024, "width": 4032, "ID": "17005472,24f7c90004d15ee86", "gtboxes": [{"tag": "yiwu", "box": [1940, 1270, 668, 405]}]}
+{"fpath": "101827.jpg", "height": 3024, "width": 4032, "ID": "17005472,252707000fad7fb23", "gtboxes": [{"tag": "yiwu", "box": [650, 1462, 1114, 321]}]}
+{"fpath": "101716.jpg", "height": 3024, "width": 4032, "ID": "17005472,23b11a000375c5ba0", "gtboxes": [{"tag": "songduangu", "box": [0, 672, 357, 135]}]}
+{"fpath": "101759.jpg", "height": 3024, "width": 4032, "ID": "17005472,256ea0000d9b107f5", "gtboxes": [{"tag": "yiwu", "box": [866, 1347, 555, 675]}]}
+{"fpath": "101781.jpg", "height": 3024, "width": 4032, "ID": "17005472,25e1b60002f8c6742", "gtboxes": [{"tag": "yiwu", "box": [2509, 525, 1012, 1452]}]}
+{"fpath": "300567.jpg", "height": "4912", "width": "7360", "ID": "17005472,4fbe85000ac06c404", "gtboxes": [{"tag": "songduangu", "box": [3545, 2354, 63, 129]}]}
+{"fpath": "300552.jpg", "height": "4912", "width": "7360", "ID": "17005472,510d5d0009cd4367a", "gtboxes": [{"tag": "songduangu", "box": [5223, 2577, 115, 100]}]}
+{"fpath": "101704.jpg", "height": 3024, "width": 4032, "ID": "17005472,23bbde000c13bee15", "gtboxes": [{"tag": "songduangu", "box": [3069, 1310, 259, 114]}]}
+{"fpath": "300553.jpg", "height": "4912", "width": "7360", "ID": "17005472,4eda4f000fc711510", "gtboxes": [{"tag": "songduangu", "box": [2748, 2018, 291, 222]}]}
+{"fpath": "101794.jpg", "height": 3024, "width": 4032, "ID": "17005472,263c51000b8635a39", "gtboxes": [{"tag": "yiwu", "box": [1990, 1544, 593, 844]}, {"tag": "songduangu", "box": [194, 1179, 866, 258]}]}
+{"fpath": "101769.jpg", "height": 3024, "width": 4032, "ID": "17005472,259e95000c2c155e1", "gtboxes": [{"tag": "yiwu", "box": [872, 829, 753, 1967]}]}
+{"fpath": "101760.jpg", "height": 3024, "width": 4032, "ID": "17005472,25711a0007e71801e", "gtboxes": [{"tag": "yiwu", "box": [2017, 1325, 727, 651]}, {"tag": "songduangu", "box": [290, 0, 597, 394]}]}
+{"fpath": "300532.jpg", "height": "4144", "width": "7360", "ID": "17005472,4f7ee90005a379004", "gtboxes": [{"tag": "songduangu", "box": [1186, 2241, 147, 88]}]}
+{"fpath": "101681.jpg", "height": 3024, "width": 4032, "ID": "17005472,243c970009e5871b1", "gtboxes": [{"tag": "yiwu", "box": [1515, 1024, 1310, 840]}]}
+{"fpath": "101698.jpg", "height": 3024, "width": 4032, "ID": "17005472,2474ef0008c71b71b", "gtboxes": [{"tag": "yiwu", "box": [2392, 1333, 479, 403]}, {"tag": "songduangu", "box": [3164, 1522, 285, 86]}]}
+{"fpath": "101838.jpg", "height": 3024, "width": 4032, "ID": "17005472,253fb2000dc8b226e", "gtboxes": [{"tag": "yiwu", "box": [2139, 1220, 564, 658]}]}
+{"fpath": "101712.jpg", "height": 3024, "width": 4032, "ID": "17005472,24d526000f046dc04", "gtboxes": [{"tag": "yiwu", "box": [1222, 1246, 690, 580]}]}
+{"fpath": "101829.jpg", "height": 3024, "width": 4032, "ID": "17005472,26973d0005756e35a", "gtboxes": [{"tag": "yiwu", "box": [991, 1660, 1436, 732]}]}
+{"fpath": "101780.jpg", "height": 3024, "width": 4032, "ID": "17005472,25e7e000094457bb8", "gtboxes": [{"tag": "yiwu", "box": [1072, 1761, 949, 706]}, {"tag": "yiwu", "box": [1119, 1834, 55, 95]}, {"tag": "songduangu", "box": [2, 2288, 100, 92]}]}
+{"fpath": "101690.jpg", "height": 3024, "width": 4032, "ID": "17005472,24d284000b025b8ec", "gtboxes": [{"tag": "songduangu", "box": [2, 1055, 1528, 505]}, {"tag": "yiwu", "box": [2443, 1501, 630, 583]}]}
+{"fpath": "300538.jpg", "height": "4912", "width": "7360", "ID": "17005472,4da57a000e951cd17", "gtboxes": [{"tag": "songduangu", "box": [3697, 1988, 220, 79]}, {"tag": "songduangu", "box": [3172, 2230, 67, 153]}, {"tag": "songduangu", "box": [2989, 2427, 116, 171]}, {"tag": "songduangu", "box": [1832, 1989, 212, 72]}, {"tag": "songduangu", "box": [1563, 1994, 259, 67]}, {"tag": "songduangu", "box": [1064, 2021, 133, 62]}]}
+{"fpath": "101683.jpg", "height": 3024, "width": 4032, "ID": "17005472,23b8d6000e8623b9f", "gtboxes": [{"tag": "yiwu", "box": [694, 1113, 922, 819]}]}
+{"fpath": "101754.jpg", "height": 3024, "width": 4032, "ID": "17005472,255e46000d74c34e6", "gtboxes": [{"tag": "yiwu", "box": [862, 1219, 787, 857]}, {"tag": "yiwu", "box": [1503, 1427, 93, 99]}, {"tag": "songduangu", "box": [3591, 587, 438, 213]}]}
+{"fpath": "101818.jpg", "height": 3024, "width": 4032, "ID": "17005472,257dca0004fec78b5", "gtboxes": [{"tag": "yiwu", "box": [1924, 1497, 691, 731]}]}
+{"fpath": "101758.jpg", "height": 3024, "width": 4032, "ID": "17005472,256439000974a0e63", "gtboxes": [{"tag": "yiwu", "box": [1485, 1352, 1000, 818]}]}
+{"fpath": "101691.jpg", "height": 3024, "width": 4032, "ID": "17005472,2362c1000b60bfdf2", "gtboxes": [{"tag": "songduangu", "box": [108, 1052, 668, 141]}, {"tag": "yiwu", "box": [1845, 736, 804, 1488]}]}
+{"fpath": "101820.jpg", "height": 3024, "width": 4032, "ID": "17005472,25b9360003bb0931b", "gtboxes": [{"tag": "yiwu", "box": [2076, 761, 832, 885]}, {"tag": "songduangu", "box": [1334, 816, 431, 145]}]}
+{"fpath": "101729.jpg", "height": 3024, "width": 4032, "ID": "17005472,24a1e6000d2d0c87b", "gtboxes": [{"tag": "yiwu", "box": [2096, 1487, 658, 520]}, {"tag": "songduangu", "box": [3268, 1669, 172, 74]}]}
+{"fpath": "300559.jpg", "height": "4912", "width": "7360", "ID": "17005472,4dba730001845f4d9", "gtboxes": [{"tag": "songduangu", "box": [4057, 2308, 81, 82]}, {"tag": "songduangu", "box": [3300, 2315, 58, 83]}]}
+{"fpath": "101804.jpg", "height": 3024, "width": 4032, "ID": "17005472,2667190007065a4ee", "gtboxes": [{"tag": "yiwu", "box": [968, 1858, 629, 640]}, {"tag": "songduangu", "box": [0, 2237, 443, 217]}]}
+{"fpath": "101844.jpg", "height": 3000, "width": 4000, "ID": "17005472,263f120005c43ad93", "gtboxes": [{"tag": "songduangu", "box": [2242, 2360, 955, 173]}, {"tag": "songduangu", "box": [2291, 2405, 508, 101]}]}
+{"fpath": "101747.jpg", "height": 3024, "width": 4032, "ID": "17005472,2533a0000b743118f", "gtboxes": [{"tag": "yiwu", "box": [901, 1383, 722, 640]}]}
+{"fpath": "101680.jpg", "height": 3024, "width": 4032, "ID": "17005472,2481fa000390b217a", "gtboxes": [{"tag": "yiwu", "box": [870, 1405, 698, 755]}]}
+{"fpath": "101694.jpg", "height": 3024, "width": 4032, "ID": "17005472,24ca9f0001f7e544c", "gtboxes": [{"tag": "yiwu", "box": [2439, 1749, 569, 335]}, {"tag": "songduangu", "box": [2827, 1853, 328, 64]}, {"tag": "songduangu", "box": [1156, 1568, 126, 81]}, {"tag": "songduangu", "box": [3650, 1892, 99, 35]}]}
+{"fpath": "101779.jpg", "height": 3024, "width": 4032, "ID": "17005472,25d49a0008ac41e7f", "gtboxes": [{"tag": "yiwu", "box": [2402, 1636, 247, 772]}, {"tag": "songduangu", "box": [1154, 1517, 289, 95]}, {"tag": "yiwu", "box": [2500, 1633, 46, 47]}, {"tag": "songduangu", "box": [3422, 1713, 172, 61]}, {"tag": "yiwu", "box": [3834, 169, 121, 158]}]}
+{"fpath": "101764.jpg", "height": 3024, "width": 4032, "ID": "17005472,2592310005ac9a257", "gtboxes": [{"tag": "yiwu", "box": [1877, 1105, 871, 617]}, {"tag": "songduangu", "box": [2, 352, 757, 346]}]}
+{"fpath": "101777.jpg", "height": 3024, "width": 4032, "ID": "17005472,25dd38000f4ec7b91", "gtboxes": [{"tag": "yiwu", "box": [1136, 1343, 597, 789]}]}
+{"fpath": "101687.jpg", "height": 3024, "width": 4032, "ID": "17005472,24edbb00050106ad4", "gtboxes": [{"tag": "yiwu", "box": [844, 1169, 540, 428]}, {"tag": "songduangu", "box": [227, 1543, 327, 103]}]}
+{"fpath": "101776.jpg", "height": 3024, "width": 4032, "ID": "17005472,25da4b00090939a9b", "gtboxes": [{"tag": "yiwu", "box": [2269, 1502, 437, 786]}]}
+{"fpath": "101688.jpg", "height": 3024, "width": 4032, "ID": "17005472,23a03e00093958877", "gtboxes": [{"tag": "yiwu", "box": [2577, 1033, 611, 790]}, {"tag": "songduangu", "box": [3759, 1591, 272, 165]}]}
+{"fpath": "101799.jpg", "height": 3024, "width": 4032, "ID": "17005472,2661db0006e2fa036", "gtboxes": [{"tag": "yiwu", "box": [1024, 1801, 584, 524]}, {"tag": "songduangu", "box": [552, 1930, 319, 95]}]}
+{"fpath": "101840.jpg", "height": 3024, "width": 4032, "ID": "17005472,2626a00008036c00f", "gtboxes": [{"tag": "yiwu", "box": [1962, 1481, 720, 532]}, {"tag": "yiwu", "box": [3670, 598, 57, 108]}]}
+{"fpath": "101853.jpg", "height": 3078, "width": 5472, "ID": "17005472,25837c000cf1c88cc", "gtboxes": [{"tag": "songduangu", "box": [4766, 1833, 664, 240]}, {"tag": "songduangu", "box": [3531, 1467, 286, 141]}, {"tag": "songduangu", "box": [2543, 1296, 251, 97]}, {"tag": "songduangu", "box": [2986, 1304, 384, 169]}]}
+{"fpath": "101785.jpg", "height": 3024, "width": 4032, "ID": "17005472,25f555000d5fb77b3", "gtboxes": [{"tag": "songduangu", "box": [894, 1269, 440, 151]}]}
+{"fpath": "101684.jpg", "height": 3024, "width": 4032, "ID": "17005472,23e8fd000f7259b93", "gtboxes": [{"tag": "yiwu", "box": [2377, 1292, 655, 691]}, {"tag": "songduangu", "box": [3837, 1961, 186, 115]}]}
+{"fpath": "300571.jpg", "height": "4912", "width": "7360", "ID": "17005472,4eedf8000dea89337", "gtboxes": [{"tag": "songduangu", "box": [3206, 2032, 105, 158]}]}
+{"fpath": "101689.jpg", "height": 3024, "width": 4032, "ID": "17005472,2378f00005c6f6a2c", "gtboxes": [{"tag": "yiwu", "box": [1045, 1574, 345, 368]}, {"tag": "songduangu", "box": [1938, 1580, 364, 89]}]}
+{"fpath": "101755.jpg", "height": 3024, "width": 4032, "ID": "17005472,256a8c00043d4f733", "gtboxes": [{"tag": "yiwu", "box": [2231, 825, 473, 964]}, {"tag": "yiwu", "box": [2389, 939, 89, 93]}]}
+{"fpath": "101727.jpg", "height": 3024, "width": 4032, "ID": "17005472,2441ef000a5f1b5c2", "gtboxes": [{"tag": "yiwu", "box": [1964, 1457, 1054, 680]}, {"tag": "songduangu", "box": [3591, 1910, 335, 125]}]}
+{"fpath": "101807.jpg", "height": 3024, "width": 4032, "ID": "17005472,267a1000067a9bd6f", "gtboxes": [{"tag": "yiwu", "box": [3, 1947, 1371, 764]}]}
+{"fpath": "101858.jpg", "height": 1944, "width": 2592, "ID": "17005472,2628fd000b45b510b", "gtboxes": [{"tag": "yiwu", "box": [1182, 960, 124, 90]}]}
+{"fpath": "101834.jpg", "height": 3024, "width": 4032, "ID": "17005472,25806b00001569ee3", "gtboxes": [{"tag": "yiwu", "box": [926, 1220, 758, 1756]}]}
+{"fpath": "101749.jpg", "height": 3024, "width": 4032, "ID": "17005472,254c800000a5ed823", "gtboxes": [{"tag": "yiwu", "box": [482, 1160, 1680, 448]}]}
+{"fpath": "101793.jpg", "height": 3024, "width": 4032, "ID": "17005472,261e96000fc160ea0", "gtboxes": [{"tag": "yiwu", "box": [950, 1520, 963, 1012]}, {"tag": "songduangu", "box": [0, 2103, 214, 130]}]}
+{"fpath": "300569.jpg", "height": "4912", "width": "7360", "ID": "17005472,5085710008d8cf82a", "gtboxes": [{"tag": "songduangu", "box": [2939, 1992, 147, 187]}, {"tag": "songduangu", "box": [2985, 2225, 33, 93]}]}
+{"fpath": "101744.jpg", "height": 3024, "width": 4032, "ID": "17005472,24ff6e000ca78d0e3", "gtboxes": [{"tag": "yiwu", "box": [2160, 1534, 696, 506]}, {"tag": "songduangu", "box": [3294, 1888, 292, 194]}]}
+{"fpath": "101771.jpg", "height": 3024, "width": 4032, "ID": "17005472,25ca7f000834d91bf", "gtboxes": [{"tag": "yiwu", "box": [1117, 1519, 516, 1500]}, {"tag": "songduangu", "box": [415, 1630, 216, 85]}]}
+{"fpath": "101711.jpg", "height": 3024, "width": 4032, "ID": "17005472,23a94f000cf3b44e5", "gtboxes": [{"tag": "yiwu", "box": [1897, 1392, 757, 579]}]}
+{"fpath": "300540.jpg", "height": "4912", "width": "7360", "ID": "17005472,4e4fae000015c3b1c", "gtboxes": [{"tag": "songduangu", "box": [3482, 1952, 152, 95]}]}
+{"fpath": "101843.jpg", "height": 3000, "width": 4000, "ID": "17005472,2669f5000133b2371", "gtboxes": [{"tag": "songduangu", "box": [2157, 2370, 995, 185]}, {"tag": "songduangu", "box": [2215, 2430, 511, 93]}]}
+{"fpath": "101835.jpg", "height": 3024, "width": 4032, "ID": "17005472,25ff3e000a971f28d", "gtboxes": [{"tag": "yiwu", "box": [2260, 993, 445, 1713]}, {"tag": "songduangu", "box": [2294, 1000, 253, 100]}]}
+{"fpath": "101857.jpg", "height": 2736, "width": 3648, "ID": "17005472,25429c000278dc315", "gtboxes": [{"tag": "yiwu", "box": [1117, 1079, 185, 567]}, {"tag": "yiwu", "box": [1986, 936, 188, 202]}]}
+{"fpath": "101800.jpg", "height": 3024, "width": 4032, "ID": "17005472,265ed30007440b6f7", "gtboxes": [{"tag": "yiwu", "box": [2516, 821, 646, 606]}, {"tag": "songduangu", "box": [2302, 816, 411, 102]}]}
+{"fpath": "101735.jpg", "height": 3024, "width": 4032, "ID": "17005472,2494dd000adbf0da3", "gtboxes": [{"tag": "yiwu", "box": [2197, 1282, 521, 442]}, {"tag": "yiwu", "box": [3891, 2108, 30, 60]}]}
+{"fpath": "300561.jpg", "height": "4912", "width": "7360", "ID": "17005472,4cbbb6000186f7c9a", "gtboxes": [{"tag": "songduangu", "box": [3261, 2391, 67, 108]}, {"tag": "songduangu", "box": [3579, 2345, 83, 176]}]}
+{"fpath": "101746.jpg", "height": 3024, "width": 4032, "ID": "17005472,252e2f000637ddd1b", "gtboxes": [{"tag": "yiwu", "box": [2385, 1331, 963, 537]}]}
+{"fpath": "101819.jpg", "height": 3024, "width": 4032, "ID": "17005472,269462000add312ff", "gtboxes": [{"tag": "yiwu", "box": [920, 1559, 744, 1156]}, {"tag": "songduangu", "box": [72, 2166, 256, 181]}]}
+{"fpath": "101806.jpg", "height": 3024, "width": 4032, "ID": "17005472,2671fd000b21d8209", "gtboxes": [{"tag": "yiwu", "box": [429, 1281, 1991, 599]}, {"tag": "songduangu", "box": [2222, 531, 152, 370]}]}
+{"fpath": "101846.jpg", "height": 3000, "width": 4000, "ID": "17005472,254764000046a3744", "gtboxes": [{"tag": "songduangu", "box": [2406, 2269, 996, 169]}, {"tag": "songduangu", "box": [2487, 2306, 513, 114]}]}
+{"fpath": "101787.jpg", "height": 3024, "width": 4032, "ID": "17005472,261bcc0006c8b9512", "gtboxes": [{"tag": "yiwu", "box": [2370, 1929, 375, 587]}, {"tag": "songduangu", "box": [1531, 1561, 233, 143]}]}
+{"fpath": "200200.jpg", "height": 5568, "width": 3712, "ID": "17005472,28f7fa0000d863feb", "gtboxes": [{"tag": "songduangu", "box": [1085, 1808, 899, 874]}]}
+{"fpath": "101719.jpg", "height": 3024, "width": 4032, "ID": "17005472,245d960003ab32639", "gtboxes": [{"tag": "yiwu", "box": [970, 1184, 507, 1108]}]}
+{"fpath": "300519.jpg", "height": "4912", "width": "7360", "ID": "17005472,49908a000e0621089", "gtboxes": [{"tag": "songduangu", "box": [3719, 2325, 111, 148]}, {"tag": "songduangu", "box": [3829, 2020, 158, 100]}, {"tag": "songduangu", "box": [4044, 1985, 130, 75]}, {"tag": "songduangu", "box": [4243, 2047, 121, 151]}, {"tag": "songduangu", "box": [2530, 2055, 132, 78]}, {"tag": "songduangu", "box": [2924, 2021, 172, 167]}, {"tag": "songduangu", "box": [3023, 2255, 111, 205]}]}
+{"fpath": "101828.jpg", "height": 3024, "width": 4032, "ID": "17005472,26823d000f68a2dfb", "gtboxes": [{"tag": "yiwu", "box": [1756, 969, 1008, 638]}]}
+{"fpath": "000103.jpg", "height": "2832", "width": "4240", "ID": "17005472,1f5f0000d9281abf", "gtboxes": [{"tag": "yiwu", "box": [1802, 16, 1505, 2802]}]}
+{"fpath": "101724.jpg", "height": 3024, "width": 4032, "ID": "17005472,247dd6000a5208943", "gtboxes": [{"tag": "yiwu", "box": [798, 1254, 1079, 744]}, {"tag": "yiwu", "box": [1605, 1350, 91, 125]}]}
