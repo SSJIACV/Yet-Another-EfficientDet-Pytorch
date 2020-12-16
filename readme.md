@@ -12,21 +12,19 @@
 
 #### 参数设置
 
-`对应 daodixian_2class.yml`
+对应 daodixian_2class.yml
 
-```
-`project_name: daodixian_2class  # 这个 project_name 既是 yml文件的名称 ，又是数据集的根目录（如果是local本地读取的话）`
+project_name: daodixian_2class  # 这个 project_name 既是 yml文件的名称 ，又是数据集的根目录（如果是local本地读取的话）
 
-`obj_list: ['songduangu','yiwu']   # 表示数据中的class name`
+obj_list: ['songduangu','yiwu']   # 表示数据中的class name
 
-`set_class: daodixian_2class  # 仅在 Local 模式时需要设置这个参数 ，表示odgt标注文件的前缀，后缀为_train.odgt（固定的）`
+set_class: daodixian_2class  # 仅在 Local 模式时需要设置这个参数 ，表示odgt标注文件的前缀，后缀为_train.odgt（固定的）
 
-`train_odgt_path : 's3://jiashuaishuai/dianwang_data/daodixian_2class/annotations/daodixian_2class_train.odgt'  # 根据odgt和其中的nori_id来读取标注和Image`
+train_odgt_path : 's3://jiashuaishuai/dianwang_data/daodixian_2class/annotations/daodixian_2class_train.odgt'  # 根据odgt和其中的nori_id来读取标注和Image
 
-`val_odgt_path : 's3://jiashuaishuai/dianwang_data/daodixian_2class/annotations/daodixian_2class_val.odgt'
+val_odgt_path : 's3://jiashuaishuai/dianwang_data/daodixian_2class/annotations/daodixian_2class_val.odgt'
 
 注：还有部分参数在训练脚本里的argparse进行更改
-```
 
 #### 训练脚本
 
