@@ -14,6 +14,7 @@
 
 对应 daodixian_2class.yml
 
+```
 project_name: daodixian_2class  # 这个 project_name 既是 yml文件的名称 ，又是数据集的根目录（如果是local本地读取的话）
 
 obj_list: ['songduangu','yiwu']   # 表示数据中的class name
@@ -25,6 +26,9 @@ train_odgt_path : 's3://jiashuaishuai/dianwang_data/daodixian_2class/annotations
 val_odgt_path : 's3://jiashuaishuai/dianwang_data/daodixian_2class/annotations/daodixian_2class_val.odgt'
 
 注：还有部分参数在训练脚本里的argparse进行更改
+```
+
+
 
 #### 训练脚本
 
