@@ -16,6 +16,7 @@ class EfficientDetBackbone(nn.Module):
         self.fpn_num_filters = [64, 88, 112, 160, 224, 288, 384, 384, 384]
         self.fpn_cell_repeats = [3, 4, 5, 6, 7, 7, 8, 8, 8]
         self.input_sizes = [512, 640, 768, 896, 1024, 1280, 1280, 1536, 1536]
+        # self.input_sizes = [512, 640, 768, 896, 1024, 1280, 1280, 768, 1536]
         self.box_class_repeats = [3, 3, 3, 4, 4, 4, 5, 5, 5]
         self.pyramid_levels = [5, 5, 5, 5, 5, 5, 5, 5, 6]
         self.anchor_scale = [4., 4., 4., 4., 4., 4., 4., 5., 4.]
