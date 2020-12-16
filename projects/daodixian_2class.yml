@@ -14,7 +14,7 @@ anchors_ratios: '[(1.0, 1.0), (1.4, 0.7), (0.7, 1.4)]'
 
 obj_list: ['songduangu','yiwu']
 
-# set_class为daodixian_2class_train.json 的前缀  _train.json为后缀（后缀是固定的）
+# set_class为daodixian_2class_train.odgt 的前缀  _train.odgt 为后缀（后缀是固定的）
 set_class: daodixian_2class
 
 train_odgt_path : 's3://jiashuaishuai/dianwang_data/daodixian_2class/annotations/daodixian_2class_train.odgt'
